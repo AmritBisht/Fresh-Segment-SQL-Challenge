@@ -14,4 +14,4 @@ For this case study there is a total of 2 datasets which you will need to use to
 - <strong>Interest_Map</strong>: This mapping table links the interest_id with their relevant interest information.
 
 ## Case Study
-[Case Study - Fresh Segments: SQL Solutions](./fresh segment solutions.md)
+[Case Study - Fresh Segments: SQL Solutions](./fresh_segment_solutions.md)
